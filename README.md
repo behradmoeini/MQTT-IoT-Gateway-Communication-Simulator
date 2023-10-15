@@ -1,4 +1,4 @@
-# MQTT IoT Gateway Communication Simulator
+# MQTT IoT Gateway Communication Simulator for Stratosfy
 
 This project simulates a scenario where multiple IoT gateways communicate with a cloud-based MQTT broker to send and receive messages. It also includes functionality for authenticating the gateways, publishing messages, retrieving stored messages from a database, analyzing the data, and visualizing the results.
 
